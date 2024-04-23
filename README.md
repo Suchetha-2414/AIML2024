@@ -16,4 +16,6 @@ ASSIGNMENT 6: https://github.com/Suchetha-2414/AIML2024/blob/main/2203A51448_A6.
 
 ASSIGNMENT 7: https://github.com/Suchetha-2414/AIML2024/blob/main/2203A51448_ML_A4.ipynb
 
-ASSIGNMENT 8: https://github.com/Suchetha-2414/AIML2024/blob/main/2203A51448_ML_A4.ipynb
+ASSIGNMENT 8: https://github.com/Suchetha-2414/AIML2024/blob/main/2203A51448_ML_A5.ipynb
+
+ASSIGNMENT 9:
